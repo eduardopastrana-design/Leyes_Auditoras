@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "nombre_completo": "Constitución Política de la Ciudad de México",
+    "nombre_corto": "Constitución de la CDMX",
+    "jurisdiccion": "Ciudad de México",
+    "tipo_normativa": "Constitución",
+    "autoridad_emisora": "Asamblea Constituyente de la Ciudad de México",
+    "fecha_publicacion_original": "2017-02-05",
+    "fecha_ultima_reforma": "2023-03-24",
+    "estatus": "Vigente",
+    "url_fuente_oficial": "https://data.consejeria.cdmx.gob.mx/images/leyes/estatutos/CONSTITUCION_POLITICA_DE_LA_CDMX_14.2.2.pdf",
+    "resumen": "Establece el marco jurídico fundamental de la Ciudad de México como entidad federativa, definiendo su estructura de gobierno, la división de poderes, los derechos y libertades de sus habitantes, y los principios rectores de la administración pública. Es la norma suprema que rige la organización política y social de la ciudad.",
+    "palabras_clave": [
+      "constitución",
+      "derechos humanos",
+      "gobierno",
+      "poderes públicos",
+      "alcaldías",
+      "participación ciudadana",
+      "fiscalización",
+      "rendición de cuentas",
+      "Ciudad de México"
+    ],
+    "temas_principales": [
+      "Principios y Disposiciones Generales",
+      "Carta de Derechos",
+      "Desarrollo Sustentable y Planeación Democrática",
+      "Ciudadanía y Ejercicio Democrático",
+      "Distribución del Poder",
+      "Buen Gobierno y Administración Pública",
+      "Poder Judicial",
+      "Organismos Constitucionales Autónomos"
+    ],
+    "sujetos_obligados_principales": [
+      "Poderes Públicos de la Ciudad de México (Ejecutivo, Legislativo y Judicial)",
+      "Alcaldías",
+      "Organismos Constitucionales Autónomos de la CDMX",
+      "Toda autoridad en el ámbito de la Ciudad de México"
+    ],
+    "conceptos_clave_definidos": {
+      "Ciudad de México": "Entidad integrante de la Federación, sede de los Poderes de la Unión y capital de los Estados Unidos Mexicanos, libre y autónoma en su régimen interior.",
+      "Soberanía Popular": "Reside esencial y originariamente en el pueblo, quien la ejerce por conducto de sus poderes públicos y figuras de democracia directa y participativa.",
+      "Derechos Humanos": "Principio rector supremo basado en la dignidad humana. Las autoridades están obligadas a promover, respetar, proteger y garantizar los derechos humanos.",
+      "Buena Administración Pública": "Derecho de toda persona a una administración pública receptiva, eficaz, eficiente y a recibir servicios públicos de calidad.",
+      "Fiscalización": "Función pública orientada a la rendición de cuentas, transparencia y control de la gestión pública."
+    },
+    "articulos_relevantes_auditoria": {
+      "Artículo 1": "Define la naturaleza de la Ciudad de México y los principios de su gobierno, incluyendo la participación social y la división de poderes.",
+      "Artículo 3": "Establece los principios rectores, incluyendo la ética, austeridad, transparencia, responsabilidad y rendición de cuentas en la función pública.",
+      "Artículo 5": "Describe a la Ciudad como 'garantista', estableciendo el Sistema Integral de Derechos Humanos y la orientación de la hacienda pública al cumplimiento de derechos.",
+      "Artículo 7, Apartado A": "Derecho a la buena administración pública, que implica eficiencia, calidad en servicios y rendición de cuentas.",
+      "Artículo 62": "Regula la Auditoría Superior de la Ciudad de México, su autonomía y sus facultades para fiscalizar el uso de recursos públicos.",
+      "Artículo 64": "Establece el Sistema Local Anticorrupción, coordinado con el Sistema Nacional."
+    }
+  }
+}

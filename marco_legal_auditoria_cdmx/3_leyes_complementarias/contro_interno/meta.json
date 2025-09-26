@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "nombre_completo": "Ley de Auditoría y Control Interno de la Administración Pública de la Ciudad de México",
+    "nombre_corto": "Ley de Auditoría y Control Interno de la CDMX",
+    "jurisdiccion": "Ciudad de México",
+    "tipo_normativa": "Ley",
+    "autoridad_emisora": "Congreso de la Ciudad de México",
+    "fecha_publicacion_original": "2017-09-01",
+    "fecha_ultima_reforma": "2021-03-26",
+    "estatus": "Vigente",
+    "url_fuente_oficial": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_AUDITORIA_Y_CONTROL_INTERNO_DE_LA_ADMON_PUBLICA_DE_LA_CDMX_3.1.pdf",
+    "resumen": "Regula la ejecución de auditorías, el control interno y otras intervenciones para prevenir, supervisar y evaluar la actuación de servidores públicos y particulares en el manejo de recursos de la Administración Pública de la Ciudad de México, en el marco del Sistema Anticorrupción local.",
+    "palabras_clave": [
+      "auditoría",
+      "control interno",
+      "responsabilidades administrativas",
+      "Secretaría de la Contraloría General",
+      "gasto público",
+      "Sistema Anticorrupción",
+      "CDMX",
+      "buena administración"
+    ],
+    "sujetos_obligados_principales": [
+      "Dependencias de la Administración Pública de la CDMX",
+      "Órganos desconcentrados de la CDMX",
+      "Delegaciones o Alcaldías",
+      "Entidades paraestatales de la Administración Pública de la CDMX",
+      "Proveedores, contratistas y particulares vinculados con el ejercicio de recursos públicos"
+    ],
+    "conceptos_clave_definidos": {
+      "Control Interno": "Conjunto de planes, métodos, principios, normas, procedimientos y mecanismos de verificación y evaluación adoptados por los entes públicos con el fin de que las actividades, operaciones y actuaciones, así como la administración de la información y empleo de los recursos se realicen con un enfoque preventivo.",
+      "Auditoría Interna": "Actividad que se desarrolla en forma objetiva, metodológica, sistemática, analítica e imparcial para garantizar la buena administración y el gobierno abierto, concebida para agregar mayor eficiencia y eficacia a la gestión gubernativa.",
+      "Órganos Internos de Control": "Unidades administrativas adscritas a la Secretaría de la Contraloría General, que ejercen funciones de auditoría, control interno e intervención en los entes públicos de la CDMX.",
+      "Buena administración": "Derecho humano que se garantiza a través de un gobierno abierto, integral, honesto, transparente, profesional, eficaz, eficiente, austero, incluyente y resiliente que procure el interés público y combata la corrupción."
+    },
+    "articulos_relevantes": {
+      "Artículo 1": "Objeto de la Ley.",
+      "Artículo 4": "Glosario de términos clave para la interpretación de la ley.",
+      "Artículo 13": "Responsabilidades y facultades de la Secretaría de la Contraloría General.",
+      "Artículo 16": "Requisitos y nombramiento de los titulares de los Órganos Internos de Control.",
+      "Artículo 18": "Definición y propósito de la Auditoría Interna.",
+      "Artículo 21": "Etapas del proceso de auditoría (Planeación, Programación, Ejecución, Resultados, Conclusión).",
+      "Artículo 29": "Definición y propósito del Control Interno.",
+      "Artículo 31": "Etapas del proceso de Control Interno (Planeación, Programación, Verificación, Resultados, Conclusión)."
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "nombre_completo": "Ley de Fiscalización Superior de la Ciudad de México",
+    "nombre_corto": "Ley de Fiscalización Superior de la CDMX",
+    "jurisdiccion": "Ciudad de México",
+    "tipo_normativa": "Ley",
+    "autoridad_emisora": "Congreso de la Ciudad de México",
+    "fecha_publicacion_original": "2014-07-09",
+    "fecha_ultima_reforma": "2018-11-27",
+    "estatus": "Vigente",
+    "url_fuente_oficial": "https://ascm.gob.mx/wp-content/uploads/2022/09/LEY-DE-FISCALIZACION-SUPERIOR-DE-LA-CIUDAD-DE-MEXICO-Septiembre-de-2022.pdf",
+    "resumen": "Regula la fiscalización, organización y atribuciones de la Auditoría Superior de la Ciudad de México (ASCM), así como los procedimientos para la revisión de la Cuenta Pública y el uso de recursos públicos por parte de los sujetos de fiscalización en la Ciudad de México.",
+    "palabras_clave": [
+      "auditoría",
+      "fiscalización",
+      "rendición de cuentas",
+      "ASCM",
+      "cuenta pública",
+      "control interno",
+      "responsabilidades administrativas",
+      "sujetos de fiscalización",
+      "gasto público"
+    ],
+    "sujetos_obligados_principales": [
+      "Administración Pública del Gobierno de la Ciudad de México",
+      "Órganos autónomos de la CDMX",
+      "Órganos de Gobierno (Congreso y Tribunal Superior de Justicia)",
+      "Cualquier entidad o persona que maneje recursos públicos de la CDMX"
+    ],
+    "conceptos_clave_definidos": {
+      "Auditoría": "Proceso de verificación del cumplimiento de las disposiciones legales y normativas, y revisión, análisis y examen periódico a los registros contables y sistemas de contabilidad, sistemas y mecanismos administrativos, y a los métodos de control interno de una unidad administrativa.",
+      "Fiscalización": "Facultad del Congreso que ejerce a través de la Auditoría Superior, consistente en revisar y evaluar a los Sujetos de Fiscalización, pronunciándose respecto de la aplicación de los recursos públicos, ingreso y gastos públicos y operaciones concluidas.",
+      "Control Interno": "Proceso que realizan los sujetos de fiscalización que tiene como fin proporcionar seguridad razonable en el logro de sus objetivos específicos, a través de la implementación y ejecución de métodos, políticas y procedimientos coordinados e interrelacionados.",
+      "Cuenta Pública": "El informe que rinde la Ciudad de México sobre su gestión financiera, cuyo contenido se establece en la Ley General de Contabilidad Gubernamental."
+    },
+    "articulos_relevantes": {
+      "Artículo 1": "Objeto de la Ley.",
+      "Artículo 2": "Definiciones y glosario de términos.",
+      "Artículo 3": "Naturaleza y autonomía de la Auditoría Superior de la Ciudad de México.",
+      "Artículo 8": "Atribuciones de la Auditoría Superior."
+    }
+  }
+}

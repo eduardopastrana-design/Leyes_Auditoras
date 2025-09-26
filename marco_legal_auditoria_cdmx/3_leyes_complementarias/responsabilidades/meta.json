@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "nombre_completo": "Ley de Responsabilidades Administrativas de la Ciudad de México",
+    "nombre_corto": "Ley de Responsabilidades Administrativas CDMX",
+    "jurisdiccion": "Ciudad de México",
+    "tipo_normativa": "Ley",
+    "autoridad_emisora": "Asamblea Legislativa del Distrito Federal, VII Legislatura",
+    "fecha_publicacion_original": "2017-09-01",
+    "fecha_ultima_reforma": "2022-06-15",
+    "estatus": "Vigente",
+    "url_fuente_oficial": "https://data.consejeria.cdmx.gob.mx/portal_old/uploads/gacetas/a115de1331b53050a05115885583f19c.pdf",
+    "resumen": "Establece las responsabilidades administrativas de las Personas Servidoras Públicas, sus obligaciones, las sanciones por actos u omisiones, y las que corresponden a particulares vinculados con faltas administrativas graves, así como los procedimientos para su aplicación.",
+    "palabras_clave": [
+      "responsabilidades administrativas",
+      "servidores públicos",
+      "sanciones",
+      "faltas administrativas",
+      "corrupción",
+      "ética pública",
+      "declaración patrimonial",
+      "conflicto de interés"
+    ],
+    "sujetos_obligados_principales": [
+      "Personas Servidoras Públicas de la Ciudad de México",
+      "Ex-servidores públicos en los supuestos de la ley",
+      "Particulares (personas físicas o morales) vinculados con faltas administrativas graves"
+    ],
+    "conceptos_clave_definidos": {
+      "Conflicto de Interés": "La posible afectación del desempeño imparcial y objetivo de las funciones de las Personas Servidoras Públicas en razón de intereses personales, familiares o de negocios.",
+      "Faltas administrativas": "Clasificadas en graves, no graves y faltas de particulares.",
+      "Falta administrativa grave": "Conductas de las Personas Servidoras Públicas cuya sanción corresponde al Tribunal de Justicia Administrativa.",
+      "Falta administrativa no grave": "Conductas de las Personas Servidoras Públicas cuya sanción corresponde a la Secretaría de la Contraloría y a los Órganos Internos de Control.",
+      "Personas Servidoras Públicas": "Personas que desempeñan un empleo, cargo o comisión en los entes públicos de la Ciudad de México."
+    },
+    "articulos_relevantes": {
+      "Artículo 1": "Objeto de la Ley.",
+      "Artículo 3": "Glosario de términos clave.",
+      "Artículo 4": "Sujetos a los que aplica la Ley.",
+      "Artículo 7": "Principios y directrices que rigen la actuación de las Personas Servidoras Públicas.",
+      "Artículo 32": "Sujetos obligados a presentar declaración patrimonial y de intereses.",
+      "Artículo 47": "Definición de Conflicto de Interés.",
+      "Artículo 49": "Catálogo de Faltas administrativas no graves."
+    },
+    "procedimientos_clave": [
+      "Investigación de presuntas faltas administrativas por parte de la Secretaría, Órganos Internos de Control y la Auditoría Superior.",
+      "Substanciación del procedimiento de responsabilidad administrativa.",
+      "Resolución de Faltas no graves por la Secretaría y Órganos Internos de Control.",
+      "Resolución de Faltas graves y de particulares por el Tribunal de Justicia Administrativa.",
+      "Presentación de declaraciones de situación patrimonial y de intereses."
+    ]
+  }
+}
