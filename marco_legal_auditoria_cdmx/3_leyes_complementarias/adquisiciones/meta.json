@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "nombre_completo": "Ley de Adquisiciones para el Distrito Federal",
+    "nombre_corto": "Ley de Adquisiciones DF",
+    "jurisdiccion": "Distrito Federal (Actualmente Ciudad de México)",
+    "tipo_normativa": "Ley",
+    "autoridad_emisora": "Asamblea Legislativa del Distrito Federal, I Legislatura",
+    "fecha_publicacion_original": "1998-09-28",
+    "fecha_ultima_reforma": "2018-02-26",
+    "estatus": "Vigente con reformas",
+    "url_fuente_oficial": "No disponible en el documento.",
+    "resumen": "Regula las acciones relativas a la planeación, programación, presupuestación, contratación, gasto, ejecución, conservación, mantenimiento y control de las adquisiciones, arrendamientos de bienes muebles y prestación de servicios de cualquier naturaleza que realice la Administración Pública del Distrito Federal (ahora Ciudad de México), incluyendo sus dependencias, órganos desconcentrados, entidades y delegaciones.",
+    "palabras_clave": [
+      "adquisiciones",
+      "arrendamientos",
+      "servicios",
+      "contratación",
+      "licitación pública",
+      "proveedores",
+      "gasto público",
+      "administración pública",
+      "Distrito Federal",
+      "Ciudad de México"
+    ],
+    "sujetos_obligados_principales": [
+      "Administración Pública del Distrito Federal (dependencias, órganos desconcentrados, entidades y delegaciones)",
+      "Asamblea Legislativa del Distrito Federal",
+      "Tribunal Superior de Justicia del Distrito Federal",
+      "Órganos con personalidad jurídica propia que manejan presupuesto de forma autónoma"
+    ],
+    "organos_de_control_y_fiscalizacion": [
+      "Contraloría General del Distrito Federal (Contraloría)",
+      "Oficialía Mayor del Distrito Federal (Oficialía)",
+      "Secretaría de Finanzas del Distrito Federal (Secretaría)"
+    ],
+    "conceptos_clave_definidos": {
+      "Licitación Pública": "Procedimiento administrativo para convocar públicamente a licitantes y adjudicar un contrato a quien ofrezca las mejores condiciones.",
+      "Adquisición": "Acto jurídico para adquirir la propiedad de un bien mueble a título oneroso.",
+      "Arrendamiento": "Acto jurídico para el uso y goce temporal de bienes muebles a cambio de un precio.",
+      "Servicio": "Actividad organizada para satisfacer determinadas necesidades.",
+      "Contrato Administrativo": "Acuerdo de voluntades para transmitir la propiedad, uso de bienes muebles o prestación de servicios a la Administración Pública.",
+      "Padrón de Proveedores": "Registro de personas físicas y morales con las cuales las dependencias pueden contratar."
+    },
+    "articulos_relevantes": {
+      "Artículo 1": "Objeto y ámbito de aplicación de la Ley.",
+      "Artículo 2": "Glosario de términos y definiciones clave.",
+      "Artículo 14 Bis": "Integración del Padrón de Proveedores de la Administración Pública.",
+      "Artículo 26": "Establece la licitación pública como regla general para las contrataciones.",
+      "Artículo 27": "Enumera los procedimientos de contratación: licitación pública, invitación restringida y adjudicación directa.",
+      "Artículo 39": "Supuestos por los cuales una persona física o moral puede ser inhabilitada para participar en procedimientos de contratación.",
+      "Artículo 54": "Supuestos de excepción a la licitación pública, permitiendo la invitación restringida o adjudicación directa."
+    },
+    "regimen_sancionador": {
+      "descripcion": "La ley establece causas de inhabilitación y cancelación del registro de proveedores. Las contravenciones a la ley pueden resultar en la nulidad de los actos y contratos, y los servidores públicos pueden ser sujetos a responsabilidades administrativas.",
+      "articulos_clave": "Artículo 13, Artículo 14 Sexies, Artículo 14 Septies, Artículo 39."
+    }
+  }
+}

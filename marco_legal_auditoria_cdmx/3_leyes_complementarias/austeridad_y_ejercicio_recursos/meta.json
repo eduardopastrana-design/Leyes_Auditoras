@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "nombre_completo": "Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México",
+    "nombre_corto": "Ley de Austeridad CDMX",
+    "jurisdiccion": "Ciudad de México",
+    "tipo_normativa": "Ley",
+    "autoridad_emisora": "Congreso de la Ciudad de México",
+    "fecha_publicacion_original": "2018-12-31",
+    "fecha_ultima_reforma": "2021-11-11",
+    "estatus": "Vigente con reformas",
+    "url_fuente_oficial": "No disponible en el documento, pero se puede buscar en la Gaceta Oficial de la Ciudad de México con las fechas de publicación.",
+    "resumen": "Regula y norma las acciones en materia de austeridad, programación, presupuestación, aprobación, ejercicio, control y evaluación de los ingresos y egresos públicos de la Ciudad de México. Establece las bases para los tabuladores de remuneraciones de los servidores públicos y es de observancia obligatoria para todos los poderes, alcaldías, órganos autónomos y entes públicos de la CDMX.",
+    "palabras_clave": [
+      "austeridad",
+      "transparencia",
+      "remuneraciones",
+      "presupuesto",
+      "gasto público",
+      "ejercicio de recursos",
+      "servidores públicos",
+      "Ciudad de México",
+      "disciplina presupuestaria",
+      "evaluación del desempeño"
+    ],
+    "sujetos_obligados_principales": [
+      "Poder Ejecutivo de la Ciudad de México (Dependencias, Órganos Desconcentrados, Entidades)",
+      "Poder Legislativo de la Ciudad de México",
+      "Poder Judicial de la Ciudad de México",
+      "Alcaldías",
+      "Organismos Autónomos de la Ciudad de México",
+      "Todos los entes públicos de la Ciudad de México"
+    ],
+    "organos_de_control_y_fiscalizacion": [
+      "Secretaría de Administración y Finanzas de la Ciudad de México (Secretaría)",
+      "Secretaría de la Contraloría General de la Ciudad de México (Secretaría de la Contraloría)",
+      "Auditoría Superior de la Ciudad de México (Auditoría Superior)",
+      "Congreso de la Ciudad de México"
+    ],
+    "conceptos_clave_definidos": {
+      "Austeridad": "Política de Estado para eliminar excesos en el gasto público y reencauzar recursos a prioridades, sin afectar la buena administración.",
+      "Adecuaciones Presupuestarias": "Modificaciones al presupuesto aprobado por el Congreso para un mejor cumplimiento de objetivos.",
+      "Remuneración o retribución": "Toda percepción en efectivo o en especie que recibe un servidor público por su desempeño.",
+      "Presupuesto basado en Resultados": "Estrategia para asignar recursos en función del cumplimiento de objetivos y evaluación por indicadores de desempeño.",
+      "Responsabilidad Financiera": "Observancia de principios y disposiciones para procurar el equilibrio presupuestario y la disciplina fiscal."
+    },
+    "articulos_relevantes": {
+      "Artículo 1": "Objeto y ámbito de aplicación de la Ley.",
+      "Artículo 3": "Sujetos obligados y principios rectores del gasto (legalidad, honestidad, austeridad, eficiencia, etc.).",
+      "Artículo 6": "Bases del gasto público, basado en el Presupuesto de Egresos.",
+      "Artículo 12": "Obligación de emitir y publicar lineamientos de austeridad anualmente.",
+      "Artículo 13": "Obligatoriedad de incorporar la perspectiva de género y la atención a niños, niñas y adolescentes en el presupuesto.",
+      "Artículo 20": "Principio de equilibrio presupuestario.",
+      "Artículo 22": "Manejo de Ingresos Excedentes.",
+      "Artículo 23": "Medidas de disciplina presupuestal en caso de disminución de ingresos.",
+      "Artículo 80": "Destino de los recursos remanentes (economías y ahorros) al final del ejercicio fiscal, incluyendo la creación de un fondo de estabilización.",
+      "Artículo 90": "Medidas para racionalizar el gasto en actividades administrativas y de apoyo."
+    },
+    "regimen_sancionador": {
+      "descripcion": "El incumplimiento de las disposiciones de esta ley puede generar responsabilidades administrativas para los servidores públicos en los términos de la Ley de Responsabilidades Administrativas de la Ciudad de México. Además, se establecen responsabilidades directas por el mal manejo de recursos, como en el caso de no enterar contribuciones (Art. 52) o evitar el reintegro de recursos (Art. 80).",
+      "articulos_clave": "Artículo 51, Artículo 52, Artículo 80, Artículo 91."
+    },
+    "principios_rectores_adicionales": [
+      "Legalidad",
+      "Honestidad",
+      "Eficiencia",
+      "Eficacia",
+      "Economía",
+      "Racionalidad",
+      "Transparencia",
+      "Control",
+      "Rendición de cuentas",
+      "Igualdad de género",
+      "Enfoque de derechos humanos"
+    ],
+    "mecanismos_de_control_y_seguimiento": {
+      "Informes Trimestrales": "El Gobierno de la CDMX reporta al Congreso sobre las finanzas públicas y la deuda.",
+      "Cuenta Pública": "Documento anual que consolida la información financiera y contable de todos los entes públicos.",
+      "Sistema de Evaluación del Desempeño": "Valoración objetiva del desempeño de los programas presupuestarios mediante indicadores.",
+      "Lineamientos de Austeridad": "Publicación anual obligatoria por parte de los sujetos obligados con las medidas a implementar y los ahorros generados."
+    },
+    "relacion_con_otras_normas": {
+      "Código Fiscal de la Ciudad de México": "Actúa como norma supletoria.",
+      "Ley de Planeación del Desarrollo de la CDMX": "El presupuesto debe ser congruente con los instrumentos de planeación derivados de esta ley.",
+      "Ley General de Contabilidad Gubernamental": "Rige la contabilidad y emisión de información financiera.",
+      "Ley de Responsabilidades Administrativas de la CDMX": "Establece el régimen de sanciones para los servidores públicos que incumplan esta ley."
+    }
+  }
+}
